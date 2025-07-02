@@ -1,0 +1,6 @@
+# No external dependencies needed!
+# This version uses built-in Python libraries:
+# - imaplib (built-in)
+# - smtplib (built-in) 
+# - email (built-in)
+# - csv (built-in) 
